@@ -1,0 +1,21 @@
+a=(int(input("enter the first number")))
+b=(int(input("enter the second number")))
+print(a+b)
+c=str(input("enter the first name"))
+d=str(input("enter the second name"))
+print(c+d)
+l1=[1,3,5,"yuvi",67]
+print(type(l1))
+print(l1)
+print(l1[1])
+print(l1[-2])
+l2=[34,56,98,"john"]
+print(type(l2))
+print(l2)
+print(l1[3])
+t1=(67,87,98,"yuvi")
+print(type(t1))
+print(t1)
+t2=(54,78,54,23)
+print(t2)
+
